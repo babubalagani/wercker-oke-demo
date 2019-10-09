@@ -19,7 +19,7 @@ build:
             ports: "8080"
             username: cloudbabu
             password: zaqxsw
-            repository: https://hub.docker.com/u/cloudbabu/
+            repository: https://hub.docker.com/r/cloudbabu/wercker
             registry: https://iad.ocir.io/v2
 
 deploy-to-kubernetes:
